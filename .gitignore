@@ -12,7 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/ModSci_EngiProps/*
-Content/ModSci_Engineer/*
-Content/ModSciInteriors/*
-Content/ParagonMinons/*
+Content/ModSci_EngiProps/
+Content/ModSci_Engineer/
+Content/ModSciInteriors/
+Content/ParagonMinons/
